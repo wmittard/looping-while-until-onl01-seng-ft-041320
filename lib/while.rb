@@ -5,5 +5,5 @@ puts "Wingardium Leviosa"
 	counter += 1
 end
 
-
+puts "Wingardium Leviosa"
 
